@@ -1,0 +1,11 @@
+node_modules
+
+bundle.js
+bundle.js.map
+
+styles.css
+styles.css.map
+
+static
+npm-debug.log
+.env
